@@ -1,4 +1,4 @@
 # ASCII Flame
 ---
-![demo](demo.gif)
+![flame](flame.gif)
 ---
